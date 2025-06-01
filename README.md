@@ -4,3 +4,10 @@
 - catkin_ws：机器人软件工程学，turtlebot机器人
 - moveit_ws：机器人学导论实验，iwwa7机械臂的控制(movelt+rviz+gazebo)
 - ws_slam：智能工程实验，视觉RTAB-Map
+
+## 部分克隆
+- git clone --no-checkout https://github.com/xunlan11/ws.git
+- cd ws
+- git sparse-checkout init --cone
+- git sparse-checkout set xx
+- git checkout master
