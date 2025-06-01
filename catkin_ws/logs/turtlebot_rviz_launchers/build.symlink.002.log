@@ -1,0 +1,12 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_rviz_launchers.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_rviz_launchers/cmake/turtlebot_rviz_launchersConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_rviz_launchers/cmake/turtlebot_rviz_launchersConfig.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_rviz_launchers/lib/pkgconfig/turtlebot_rviz_launchers.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_rviz_launchers.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_rviz_launchers/share/turtlebot_rviz_launchers/cmake/turtlebot_rviz_launchersConfig-version.cmake, /home/robot/catkin_ws/devel/share/turtlebot_rviz_launchers/cmake/turtlebot_rviz_launchersConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_rviz_launchers/share/turtlebot_rviz_launchers/cmake/turtlebot_rviz_launchersConfig.cmake, /home/robot/catkin_ws/devel/share/turtlebot_rviz_launchers/cmake/turtlebot_rviz_launchersConfig.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_rviz_launchers.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_rviz_launchers/cmake/turtlebot_rviz_launchersConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_rviz_launchers/cmake/turtlebot_rviz_launchersConfig.cmake
+Already unlinked: {}

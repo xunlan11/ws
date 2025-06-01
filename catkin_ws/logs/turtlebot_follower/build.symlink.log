@@ -1,0 +1,44 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/libturtlebot_follower.so
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_follower/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_follower/cfg/FollowerConfig.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_follower/cfg/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_follower.pc
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_follower/FollowerConfig.h
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_follower/cmake/turtlebot_followerConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_follower/cmake/turtlebot_followerConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_follower/docs/FollowerConfig.wikidoc
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_follower/docs/FollowerConfig-usage.dox
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_follower/docs/FollowerConfig.dox
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_follower/lib/libturtlebot_follower.so, /home/robot/catkin_ws/devel/lib/libturtlebot_follower.so)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_follower/lib/python3/dist-packages/turtlebot_follower/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_follower/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_follower/lib/python3/dist-packages/turtlebot_follower/cfg/FollowerConfig.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_follower/cfg/FollowerConfig.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_follower/lib/python3/dist-packages/turtlebot_follower/cfg/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_follower/cfg/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_follower/lib/pkgconfig/turtlebot_follower.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_follower.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_follower/include/turtlebot_follower/FollowerConfig.h, /home/robot/catkin_ws/devel/include/turtlebot_follower/FollowerConfig.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_follower/share/turtlebot_follower/cmake/turtlebot_followerConfig.cmake, /home/robot/catkin_ws/devel/share/turtlebot_follower/cmake/turtlebot_followerConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_follower/share/turtlebot_follower/cmake/turtlebot_followerConfig-version.cmake, /home/robot/catkin_ws/devel/share/turtlebot_follower/cmake/turtlebot_followerConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_follower/share/turtlebot_follower/docs/FollowerConfig.wikidoc, /home/robot/catkin_ws/devel/share/turtlebot_follower/docs/FollowerConfig.wikidoc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_follower/share/turtlebot_follower/docs/FollowerConfig-usage.dox, /home/robot/catkin_ws/devel/share/turtlebot_follower/docs/FollowerConfig-usage.dox)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_follower/share/turtlebot_follower/docs/FollowerConfig.dox, /home/robot/catkin_ws/devel/share/turtlebot_follower/docs/FollowerConfig.dox)
+Unlinking: /home/robot/catkin_ws/devel/lib/libturtlebot_follower.so
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_follower/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_follower/cfg/FollowerConfig.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_follower/cfg/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_follower.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_follower/FollowerConfig.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_follower/cmake/turtlebot_followerConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_follower/cmake/turtlebot_followerConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_follower/docs/FollowerConfig.wikidoc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_follower/docs/FollowerConfig-usage.dox
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_follower/docs/FollowerConfig.dox
+Already unlinked: {}

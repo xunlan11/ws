@@ -1,0 +1,9 @@
+[35m[1mScanning dependencies of target yocs_velocity_smoother_gencfg[0m
+[ 33%] [34m[1mGenerating dynamic reconfigure files from cfg/params.cfg: /home/robot/ws/catkin_ws/devel/.private/yocs_velocity_smoother/include/yocs_velocity_smoother/paramsConfig.h /home/robot/ws/catkin_ws/devel/.private/yocs_velocity_smoother/lib/python3/dist-packages/yocs_velocity_smoother/cfg/paramsConfig.py[0m
+Generating reconfiguration files for params in yocs_velocity_smoother
+Wrote header file in /home/robot/ws/catkin_ws/devel/.private/yocs_velocity_smoother/include/yocs_velocity_smoother/paramsConfig.h
+[ 33%] Built target yocs_velocity_smoother_gencfg
+[35m[1mScanning dependencies of target yocs_velocity_smoother_nodelet[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/yocs_velocity_smoother_nodelet.dir/src/velocity_smoother_nodelet.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/robot/ws/catkin_ws/devel/.private/yocs_velocity_smoother/lib/libyocs_velocity_smoother_nodelet.so[0m
+[100%] Built target yocs_velocity_smoother_nodelet

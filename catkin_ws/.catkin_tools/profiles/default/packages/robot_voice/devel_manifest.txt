@@ -1,0 +1,7 @@
+robot_voice
+/home/robot/ws/catkin_ws/devel/.private/robot_voice/lib/robot_voice/iat_publish /home/robot/ws/catkin_ws/devel/lib/robot_voice/iat_publish
+/home/robot/ws/catkin_ws/devel/.private/robot_voice/lib/robot_voice/voice_control /home/robot/ws/catkin_ws/devel/lib/robot_voice/voice_control
+/home/robot/ws/catkin_ws/devel/.private/robot_voice/lib/robot_voice/tts_subscribe /home/robot/ws/catkin_ws/devel/lib/robot_voice/tts_subscribe
+/home/robot/ws/catkin_ws/devel/.private/robot_voice/lib/pkgconfig/robot_voice.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/robot_voice.pc
+/home/robot/ws/catkin_ws/devel/.private/robot_voice/share/robot_voice/cmake/robot_voiceConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/robot_voice/cmake/robot_voiceConfig-version.cmake
+/home/robot/ws/catkin_ws/devel/.private/robot_voice/share/robot_voice/cmake/robot_voiceConfig.cmake /home/robot/ws/catkin_ws/devel/share/robot_voice/cmake/robot_voiceConfig.cmake

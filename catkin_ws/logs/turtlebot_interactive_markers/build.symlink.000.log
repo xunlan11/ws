@@ -1,0 +1,4 @@
+Symlinking /home/robot/catkin_ws/devel/lib/turtlebot_interactive_markers/turtlebot_marker_server
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_interactive_markers.pc
+Symlinking /home/robot/catkin_ws/devel/share/turtlebot_interactive_markers/cmake/turtlebot_interactive_markersConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/share/turtlebot_interactive_markers/cmake/turtlebot_interactive_markersConfig-version.cmake

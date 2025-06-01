@@ -1,0 +1,4 @@
+my_dynamixel
+/home/robot/ws/catkin_ws/devel/.private/my_dynamixel/lib/pkgconfig/my_dynamixel.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/my_dynamixel.pc
+/home/robot/ws/catkin_ws/devel/.private/my_dynamixel/share/my_dynamixel/cmake/my_dynamixelConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/my_dynamixel/cmake/my_dynamixelConfig-version.cmake
+/home/robot/ws/catkin_ws/devel/.private/my_dynamixel/share/my_dynamixel/cmake/my_dynamixelConfig.cmake /home/robot/ws/catkin_ws/devel/share/my_dynamixel/cmake/my_dynamixelConfig.cmake

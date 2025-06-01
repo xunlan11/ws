@@ -1,0 +1,72 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_calibration/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_calibration/msg/_ScanAngle.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_calibration/msg/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_calibration.pc
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_calibration/ScanAngle.h
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_calibration/msg/_package_ScanAngle.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_calibration/msg/ScanAngle.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_calibration/msg/_package.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_calibration/msg/turtlebot_calibration-msg.asd
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_calibration/_index.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_calibration/msg/ScanAngle.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_calibration/msg/_index.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_calibration/cmake/turtlebot_calibration-msg-extras.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_calibration/cmake/turtlebot_calibrationConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_calibration/cmake/turtlebot_calibration-msg-paths.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_calibration/cmake/turtlebot_calibrationConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_calibration/manifest.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_calibration/msg/ScanAngle.l
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/lib/python3/dist-packages/turtlebot_calibration/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_calibration/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/lib/python3/dist-packages/turtlebot_calibration/msg/_ScanAngle.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_calibration/msg/_ScanAngle.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/lib/python3/dist-packages/turtlebot_calibration/msg/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_calibration/msg/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/lib/pkgconfig/turtlebot_calibration.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_calibration.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/include/turtlebot_calibration/ScanAngle.h, /home/robot/catkin_ws/devel/include/turtlebot_calibration/ScanAngle.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/common-lisp/ros/turtlebot_calibration/msg/_package_ScanAngle.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_calibration/msg/_package_ScanAngle.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/common-lisp/ros/turtlebot_calibration/msg/ScanAngle.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_calibration/msg/ScanAngle.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/common-lisp/ros/turtlebot_calibration/msg/_package.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_calibration/msg/_package.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/common-lisp/ros/turtlebot_calibration/msg/turtlebot_calibration-msg.asd, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_calibration/msg/turtlebot_calibration-msg.asd)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/gennodejs/ros/turtlebot_calibration/_index.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_calibration/_index.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/gennodejs/ros/turtlebot_calibration/msg/ScanAngle.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_calibration/msg/ScanAngle.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/gennodejs/ros/turtlebot_calibration/msg/_index.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_calibration/msg/_index.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/turtlebot_calibration/cmake/turtlebot_calibration-msg-extras.cmake, /home/robot/catkin_ws/devel/share/turtlebot_calibration/cmake/turtlebot_calibration-msg-extras.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/turtlebot_calibration/cmake/turtlebot_calibrationConfig.cmake, /home/robot/catkin_ws/devel/share/turtlebot_calibration/cmake/turtlebot_calibrationConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/turtlebot_calibration/cmake/turtlebot_calibration-msg-paths.cmake, /home/robot/catkin_ws/devel/share/turtlebot_calibration/cmake/turtlebot_calibration-msg-paths.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/turtlebot_calibration/cmake/turtlebot_calibrationConfig-version.cmake, /home/robot/catkin_ws/devel/share/turtlebot_calibration/cmake/turtlebot_calibrationConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/roseus/ros/turtlebot_calibration/manifest.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_calibration/manifest.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_calibration/share/roseus/ros/turtlebot_calibration/msg/ScanAngle.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_calibration/msg/ScanAngle.l)
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_calibration/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_calibration/msg/_ScanAngle.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_calibration/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_calibration.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_calibration/ScanAngle.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_calibration/msg/_package_ScanAngle.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_calibration/msg/ScanAngle.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_calibration/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_calibration/msg/turtlebot_calibration-msg.asd
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_calibration/_index.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_calibration/msg/ScanAngle.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_calibration/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_calibration/cmake/turtlebot_calibration-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_calibration/cmake/turtlebot_calibrationConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_calibration/cmake/turtlebot_calibration-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_calibration/cmake/turtlebot_calibrationConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_calibration/manifest.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_calibration/msg/ScanAngle.l
+Already unlinked: {}

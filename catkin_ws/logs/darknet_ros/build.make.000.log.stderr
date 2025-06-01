@@ -1,0 +1,20 @@
+In file included from [01m[K/usr/include/string.h:495[m[K,
+                 from [01m[K/home/robot/catkin_ws/src/darknet_ros/darknet/src/utils.c:3[m[K:
+In function ‘[01m[Kstrncpy[m[K’,
+    inlined from ‘[01m[Kcopy_string[m[K’ at [01m[K/home/robot/catkin_ws/src/darknet_ros/darknet/src/utils.c:426:5[m[K:
+[01m[K/usr/include/x86_64-linux-gnu/bits/string_fortified.h:106:10:[m[K [01;35m[Kwarning: [m[K‘[01m[K__builtin_strncpy[m[K’ specified bound depends on the length of the source argument [[01;35m[K-Wstringop-overflow=[m[K]
+  106 |   return [01;35m[K__builtin___strncpy_chk (__dest, __src, __len, __bos (__dest))[m[K;
+      |          [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/robot/catkin_ws/src/darknet_ros/darknet/src/utils.c:[m[K In function ‘[01m[Kcopy_string[m[K’:
+[01m[K/home/robot/catkin_ws/src/darknet_ros/darknet/src/utils.c:426:22:[m[K [01;36m[Knote: [m[Klength computed here
+  426 |     strncpy(copy, s, [01;36m[Kstrlen(s)[m[K+1);
+      |                      [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/robot/catkin_ws/src/darknet_ros/darknet_ros/src/image_interface.cpp:[m[K In function ‘[01m[Kimage** load_alphabet_with_file(char*)[m[K’:
+[01m[K/home/robot/catkin_ws/src/darknet_ros/darknet_ros/src/image_interface.cpp:20:18:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [[01;35m[K-Wwrite-strings[m[K]
+   20 |   char* labels = [01;35m[K"/labels/%d_%d.png"[m[K;
+      |                  [01;35m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/robot/catkin_ws/src/darknet_ros/darknet/src/image_opencv.cpp:[m[K In function ‘[01m[Kimage load_image_cv(char*, int)[m[K’:
+[01m[K/home/robot/catkin_ws/src/darknet_ros/darknet/src/image_opencv.cpp:89:15:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kint system(const char*)[m[K’, declared with attribute warn_unused_result [[01;35m[K-Wunused-result[m[K]
+   89 |         [01;35m[Ksystem(buff)[m[K;
+      |         [01;35m[K~~~~~~^~~~~~[m[K
+/usr/bin/ld: warning: libopencv_highgui.so.4.2, needed by /home/robot/catkin_ws/devel/.private/darknet_ros/lib/libdarknet_ros_lib.so, may conflict with libopencv_highgui.so.3.4

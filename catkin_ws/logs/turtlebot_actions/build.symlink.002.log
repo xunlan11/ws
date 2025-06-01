@@ -1,0 +1,448 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveGoal.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialActionFeedback.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialGoal.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialActionGoal.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialActionResult.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialResult.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveFeedback.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialFeedback.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveActionFeedback.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveAction.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveResult.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveActionResult.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialAction.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveActionGoal.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/turtlebot_actions/find_fiducial_pose
+Symlinking /home/robot/ws/catkin_ws/devel/lib/turtlebot_actions/turtlebot_move_action_server
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_actions.pc
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/FindFiducialAction.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveGoal.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveActionFeedback.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveActionResult.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/FindFiducialActionGoal.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/FindFiducialFeedback.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/FindFiducialActionResult.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/FindFiducialResult.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveAction.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/FindFiducialGoal.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/FindFiducialActionFeedback.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveActionGoal.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveResult.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveFeedback.h
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveActionResult.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveActionGoal.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveActionFeedback.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialActionGoal.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialResult.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialFeedback.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveFeedback.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialActionFeedback.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialGoal.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveGoal.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveAction.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialActionResult.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveResult.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialAction.msg
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/cmake/turtlebot_actionsConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/cmake/turtlebot_actions-msg-paths.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/cmake/turtlebot_actionsConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_actions/cmake/turtlebot_actions-msg-extras.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveActionGoal.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveActionResult.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialActionFeedback.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialActionResult.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveResult.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialAction.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveResult.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialActionGoal.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/turtlebot_actions-msg.asd
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveAction.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialActionGoal.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialActionFeedback.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveFeedback.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveActionResult.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveActionFeedback.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialAction.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveGoal.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveAction.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialActionResult.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialFeedback.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialResult.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveActionFeedback.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialGoal.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveFeedback.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialGoal.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialResult.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveGoal.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialFeedback.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/_index.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveGoal.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialAction.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionResult.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveAction.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveResult.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialActionResult.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialActionGoal.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/_index.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialFeedback.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialGoal.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveFeedback.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialActionFeedback.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialResult.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionFeedback.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/manifest.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialActionGoal.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialGoal.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveAction.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialAction.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialActionResult.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialResult.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialActionFeedback.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveFeedback.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveActionFeedback.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveActionResult.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveGoal.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialFeedback.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveResult.l
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveGoal.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveGoal.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialActionFeedback.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialActionFeedback.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialGoal.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialGoal.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialActionGoal.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialActionGoal.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialActionResult.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialActionResult.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialResult.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialResult.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveFeedback.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveFeedback.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialFeedback.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialFeedback.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveActionFeedback.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveActionFeedback.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveAction.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveAction.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveResult.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveResult.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveActionResult.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveActionResult.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialAction.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialAction.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveActionGoal.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveActionGoal.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/turtlebot_actions/find_fiducial_pose, /home/robot/catkin_ws/devel/lib/turtlebot_actions/find_fiducial_pose)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/turtlebot_actions/turtlebot_move_action_server, /home/robot/catkin_ws/devel/lib/turtlebot_actions/turtlebot_move_action_server)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/lib/pkgconfig/turtlebot_actions.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_actions.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/FindFiducialAction.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialAction.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/TurtlebotMoveGoal.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveGoal.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/TurtlebotMoveActionFeedback.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveActionFeedback.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/TurtlebotMoveActionResult.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveActionResult.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/FindFiducialActionGoal.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialActionGoal.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/FindFiducialFeedback.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialFeedback.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/FindFiducialActionResult.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialActionResult.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/FindFiducialResult.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialResult.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/TurtlebotMoveAction.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveAction.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/FindFiducialGoal.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialGoal.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/FindFiducialActionFeedback.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialActionFeedback.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/TurtlebotMoveActionGoal.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveActionGoal.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/TurtlebotMoveResult.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveResult.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/include/turtlebot_actions/TurtlebotMoveFeedback.h, /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveFeedback.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/TurtlebotMoveActionResult.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveActionResult.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/TurtlebotMoveActionGoal.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveActionGoal.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/TurtlebotMoveActionFeedback.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveActionFeedback.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/FindFiducialActionGoal.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialActionGoal.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/FindFiducialResult.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialResult.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/FindFiducialFeedback.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialFeedback.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/TurtlebotMoveFeedback.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveFeedback.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/FindFiducialActionFeedback.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialActionFeedback.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/FindFiducialGoal.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialGoal.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/TurtlebotMoveGoal.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveGoal.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/TurtlebotMoveAction.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveAction.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/FindFiducialActionResult.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialActionResult.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/TurtlebotMoveResult.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveResult.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/msg/FindFiducialAction.msg, /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialAction.msg)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/cmake/turtlebot_actionsConfig-version.cmake, /home/robot/catkin_ws/devel/share/turtlebot_actions/cmake/turtlebot_actionsConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/cmake/turtlebot_actions-msg-paths.cmake, /home/robot/catkin_ws/devel/share/turtlebot_actions/cmake/turtlebot_actions-msg-paths.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/cmake/turtlebot_actionsConfig.cmake, /home/robot/catkin_ws/devel/share/turtlebot_actions/cmake/turtlebot_actionsConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/turtlebot_actions/cmake/turtlebot_actions-msg-extras.cmake, /home/robot/catkin_ws/devel/share/turtlebot_actions/cmake/turtlebot_actions-msg-extras.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveActionGoal.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveActionGoal.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveActionResult.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveActionResult.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialActionFeedback.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialActionFeedback.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialActionResult.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialActionResult.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveResult.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveResult.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialAction.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialAction.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveResult.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveResult.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialActionGoal.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialActionGoal.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/turtlebot_actions-msg.asd, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/turtlebot_actions-msg.asd)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveAction.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveAction.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialActionGoal.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialActionGoal.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialActionFeedback.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialActionFeedback.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveFeedback.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveFeedback.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveActionResult.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveActionResult.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveActionFeedback.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveActionFeedback.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialAction.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialAction.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveGoal.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveGoal.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveAction.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveAction.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialActionResult.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialActionResult.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialFeedback.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialFeedback.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialResult.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialResult.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveActionFeedback.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveActionFeedback.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialGoal.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialGoal.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveFeedback.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveFeedback.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialGoal.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialGoal.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialResult.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialResult.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveGoal.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveGoal.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialFeedback.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialFeedback.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/_index.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/_index.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveGoal.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveGoal.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialAction.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialAction.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionResult.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionResult.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveAction.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveAction.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveResult.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveResult.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialActionResult.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialActionResult.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialActionGoal.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialActionGoal.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/_index.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/_index.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialFeedback.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialFeedback.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialGoal.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialGoal.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveFeedback.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveFeedback.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialActionFeedback.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialActionFeedback.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialResult.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialResult.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionFeedback.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionFeedback.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/manifest.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/manifest.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/FindFiducialActionGoal.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialActionGoal.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/FindFiducialGoal.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialGoal.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveAction.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveAction.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/FindFiducialAction.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialAction.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/FindFiducialActionResult.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialActionResult.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/FindFiducialResult.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialResult.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/FindFiducialActionFeedback.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialActionFeedback.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveFeedback.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveFeedback.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveActionFeedback.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveActionFeedback.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveActionResult.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveActionResult.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveGoal.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveGoal.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/FindFiducialFeedback.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialFeedback.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveResult.l, /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveResult.l)
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveGoal.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialActionFeedback.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialGoal.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialActionGoal.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialActionResult.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialResult.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveFeedback.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialFeedback.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveActionFeedback.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveAction.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveResult.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveActionResult.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialAction.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/_TurtlebotMoveActionGoal.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/turtlebot_actions/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/turtlebot_actions/find_fiducial_pose
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/turtlebot_actions/turtlebot_move_action_server
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_actions.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialAction.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveGoal.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveActionFeedback.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveActionResult.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialActionGoal.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialFeedback.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialActionResult.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialResult.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveAction.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialGoal.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/FindFiducialActionFeedback.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveActionGoal.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveResult.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/turtlebot_actions/TurtlebotMoveFeedback.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveActionResult.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveActionGoal.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveActionFeedback.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialActionGoal.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialResult.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialFeedback.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveFeedback.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialActionFeedback.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialGoal.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveGoal.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveAction.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialActionResult.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/TurtlebotMoveResult.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/msg/FindFiducialAction.msg
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/cmake/turtlebot_actionsConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/cmake/turtlebot_actions-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/cmake/turtlebot_actionsConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_actions/cmake/turtlebot_actions-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveResult.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialAction.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveResult.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/turtlebot_actions-msg.asd
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveAction.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialAction.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveGoal.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveAction.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialResult.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialGoal.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/TurtlebotMoveFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/FindFiducialGoal.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialResult.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_TurtlebotMoveGoal.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/turtlebot_actions/msg/_package_FindFiducialFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/_index.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveGoal.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialAction.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionResult.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveAction.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveResult.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialActionResult.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialActionGoal.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialFeedback.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialGoal.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveFeedback.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialActionFeedback.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/FindFiducialResult.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/turtlebot_actions/msg/TurtlebotMoveActionFeedback.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/manifest.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialActionGoal.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialGoal.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveAction.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialAction.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialActionResult.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialResult.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialActionFeedback.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveFeedback.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveActionFeedback.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveActionResult.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveActionGoal.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveGoal.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/FindFiducialFeedback.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveResult.l
+Already unlinked: {}

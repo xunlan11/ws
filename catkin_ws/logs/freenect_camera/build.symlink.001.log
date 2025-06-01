@@ -1,0 +1,12 @@
+Symlinking /home/robot/catkin_ws/devel/lib/libfreenect_nodelet.so
+Symlinking /home/robot/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/__init__.py
+Symlinking /home/robot/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/cfg/FreenectConfig.py
+Symlinking /home/robot/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/cfg/__init__.py
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/freenect_camera.pc
+Symlinking /home/robot/catkin_ws/devel/lib/freenect_camera/freenect_node
+Symlinking /home/robot/catkin_ws/devel/include/freenect_camera/FreenectConfig.h
+Symlinking /home/robot/catkin_ws/devel/share/freenect_camera/cmake/freenect_cameraConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/share/freenect_camera/cmake/freenect_cameraConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig.dox
+Symlinking /home/robot/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig.wikidoc
+Symlinking /home/robot/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig-usage.dox

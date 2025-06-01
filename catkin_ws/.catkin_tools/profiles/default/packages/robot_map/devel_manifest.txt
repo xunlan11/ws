@@ -1,0 +1,4 @@
+robot_map
+/home/robot/ws/catkin_ws/devel/.private/robot_map/lib/pkgconfig/robot_map.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/robot_map.pc
+/home/robot/ws/catkin_ws/devel/.private/robot_map/share/robot_map/cmake/robot_mapConfig.cmake /home/robot/ws/catkin_ws/devel/share/robot_map/cmake/robot_mapConfig.cmake
+/home/robot/ws/catkin_ws/devel/.private/robot_map/share/robot_map/cmake/robot_mapConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/robot_map/cmake/robot_mapConfig-version.cmake

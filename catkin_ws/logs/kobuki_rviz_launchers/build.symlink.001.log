@@ -1,0 +1,3 @@
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_rviz_launchers.pc
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_rviz_launchers/cmake/kobuki_rviz_launchersConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_rviz_launchers/cmake/kobuki_rviz_launchersConfig.cmake

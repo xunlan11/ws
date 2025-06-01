@@ -1,0 +1,16 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_bringup.pc
+Symlinking /home/robot/ws/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot.sh
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_bringup/cmake/turtlebot_bringupConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_bringup/cmake/turtlebot_bringupConfig-version.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_bringup/lib/pkgconfig/turtlebot_bringup.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_bringup.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_bringup/etc/catkin/profile.d/25.turtlebot.sh, /home/robot/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot.sh)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_bringup/share/turtlebot_bringup/cmake/turtlebot_bringupConfig.cmake, /home/robot/catkin_ws/devel/share/turtlebot_bringup/cmake/turtlebot_bringupConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_bringup/share/turtlebot_bringup/cmake/turtlebot_bringupConfig-version.cmake, /home/robot/catkin_ws/devel/share/turtlebot_bringup/cmake/turtlebot_bringupConfig-version.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_bringup.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot.sh
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_bringup/cmake/turtlebot_bringupConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_bringup/cmake/turtlebot_bringupConfig-version.cmake
+Already unlinked: {}

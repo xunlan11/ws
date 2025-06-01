@@ -1,0 +1,12 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_rapps.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_rapps/cmake/turtlebot_rappsConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_rapps/cmake/turtlebot_rappsConfig-version.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_rapps/lib/pkgconfig/turtlebot_rapps.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_rapps.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_rapps/share/turtlebot_rapps/cmake/turtlebot_rappsConfig.cmake, /home/robot/catkin_ws/devel/share/turtlebot_rapps/cmake/turtlebot_rappsConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_rapps/share/turtlebot_rapps/cmake/turtlebot_rappsConfig-version.cmake, /home/robot/catkin_ws/devel/share/turtlebot_rapps/cmake/turtlebot_rappsConfig-version.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_rapps.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_rapps/cmake/turtlebot_rappsConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_rapps/cmake/turtlebot_rappsConfig-version.cmake
+Already unlinked: {}

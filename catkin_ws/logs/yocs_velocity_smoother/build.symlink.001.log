@@ -1,0 +1,11 @@
+Symlinking /home/robot/catkin_ws/devel/lib/libyocs_velocity_smoother_nodelet.so
+Symlinking /home/robot/catkin_ws/devel/lib/python3/dist-packages/yocs_velocity_smoother/__init__.py
+Symlinking /home/robot/catkin_ws/devel/lib/python3/dist-packages/yocs_velocity_smoother/cfg/paramsConfig.py
+Symlinking /home/robot/catkin_ws/devel/lib/python3/dist-packages/yocs_velocity_smoother/cfg/__init__.py
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/yocs_velocity_smoother.pc
+Symlinking /home/robot/catkin_ws/devel/include/yocs_velocity_smoother/paramsConfig.h
+Symlinking /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/cmake/yocs_velocity_smootherConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/cmake/yocs_velocity_smootherConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/docs/paramsConfig.wikidoc
+Symlinking /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/docs/paramsConfig-usage.dox
+Symlinking /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/docs/paramsConfig.dox

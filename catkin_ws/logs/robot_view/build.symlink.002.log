@@ -1,0 +1,12 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/robot_view.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/robot_view/cmake/robot_viewConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/robot_view/cmake/robot_viewConfig-version.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/robot_view/lib/pkgconfig/robot_view.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/robot_view.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/robot_view/share/robot_view/cmake/robot_viewConfig.cmake, /home/robot/catkin_ws/devel/share/robot_view/cmake/robot_viewConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/robot_view/share/robot_view/cmake/robot_viewConfig-version.cmake, /home/robot/catkin_ws/devel/share/robot_view/cmake/robot_viewConfig-version.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/robot_view.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/robot_view/cmake/robot_viewConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/robot_view/cmake/robot_viewConfig-version.cmake
+Already unlinked: {}

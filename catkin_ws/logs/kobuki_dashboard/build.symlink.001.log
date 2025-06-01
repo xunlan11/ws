@@ -1,0 +1,4 @@
+Symlinking /home/robot/catkin_ws/devel/lib/python3/dist-packages/kobuki_dashboard/__init__.py
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_dashboard.pc
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_dashboard/cmake/kobuki_dashboardConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_dashboard/cmake/kobuki_dashboardConfig-version.cmake

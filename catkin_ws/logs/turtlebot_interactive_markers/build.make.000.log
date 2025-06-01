@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target turtlebot_marker_server[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/turtlebot_marker_server.dir/src/turtlebot_marker_server.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/robot/catkin_ws/devel/.private/turtlebot_interactive_markers/lib/turtlebot_interactive_markers/turtlebot_marker_server[0m
+[100%] Built target turtlebot_marker_server

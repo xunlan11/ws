@@ -1,0 +1,3 @@
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/robot_view.pc
+Symlinking /home/robot/catkin_ws/devel/share/robot_view/cmake/robot_viewConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/share/robot_view/cmake/robot_viewConfig-version.cmake

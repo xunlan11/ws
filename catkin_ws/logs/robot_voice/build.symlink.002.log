@@ -1,0 +1,24 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/robot_voice/iat_publish
+Symlinking /home/robot/ws/catkin_ws/devel/lib/robot_voice/voice_control
+Symlinking /home/robot/ws/catkin_ws/devel/lib/robot_voice/tts_subscribe
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/robot_voice.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/robot_voice/cmake/robot_voiceConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/robot_voice/cmake/robot_voiceConfig.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/robot_voice/lib/robot_voice/iat_publish, /home/robot/catkin_ws/devel/lib/robot_voice/iat_publish)
+Cleaning: (/home/robot/catkin_ws/devel/.private/robot_voice/lib/robot_voice/voice_control, /home/robot/catkin_ws/devel/lib/robot_voice/voice_control)
+Cleaning: (/home/robot/catkin_ws/devel/.private/robot_voice/lib/robot_voice/tts_subscribe, /home/robot/catkin_ws/devel/lib/robot_voice/tts_subscribe)
+Cleaning: (/home/robot/catkin_ws/devel/.private/robot_voice/lib/pkgconfig/robot_voice.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/robot_voice.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/robot_voice/share/robot_voice/cmake/robot_voiceConfig-version.cmake, /home/robot/catkin_ws/devel/share/robot_voice/cmake/robot_voiceConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/robot_voice/share/robot_voice/cmake/robot_voiceConfig.cmake, /home/robot/catkin_ws/devel/share/robot_voice/cmake/robot_voiceConfig.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/robot_voice/iat_publish
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/robot_voice/voice_control
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/robot_voice/tts_subscribe
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/robot_voice.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/robot_voice/cmake/robot_voiceConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/robot_voice/cmake/robot_voiceConfig.cmake
+Already unlinked: {}

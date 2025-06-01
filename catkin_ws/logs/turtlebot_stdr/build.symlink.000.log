@@ -1,0 +1,4 @@
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_stdr.pc
+Symlinking /home/robot/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-stdr.sh
+Symlinking /home/robot/catkin_ws/devel/share/turtlebot_stdr/cmake/turtlebot_stdrConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/turtlebot_stdr/cmake/turtlebot_stdrConfig.cmake

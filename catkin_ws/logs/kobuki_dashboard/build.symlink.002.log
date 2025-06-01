@@ -1,0 +1,16 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/kobuki_dashboard/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/kobuki_dashboard.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/kobuki_dashboard/cmake/kobuki_dashboardConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/kobuki_dashboard/cmake/kobuki_dashboardConfig-version.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_dashboard/lib/python3/dist-packages/kobuki_dashboard/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/kobuki_dashboard/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_dashboard/lib/pkgconfig/kobuki_dashboard.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_dashboard.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_dashboard/share/kobuki_dashboard/cmake/kobuki_dashboardConfig.cmake, /home/robot/catkin_ws/devel/share/kobuki_dashboard/cmake/kobuki_dashboardConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_dashboard/share/kobuki_dashboard/cmake/kobuki_dashboardConfig-version.cmake, /home/robot/catkin_ws/devel/share/kobuki_dashboard/cmake/kobuki_dashboardConfig-version.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/kobuki_dashboard/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_dashboard.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/kobuki_dashboard/cmake/kobuki_dashboardConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/kobuki_dashboard/cmake/kobuki_dashboardConfig-version.cmake
+Already unlinked: {}

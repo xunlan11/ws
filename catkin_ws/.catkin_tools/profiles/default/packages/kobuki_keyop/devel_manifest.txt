@@ -1,0 +1,5 @@
+kobuki_keyop
+/home/robot/ws/catkin_ws/devel/.private/kobuki_keyop/lib/pkgconfig/kobuki_keyop.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/kobuki_keyop.pc
+/home/robot/ws/catkin_ws/devel/.private/kobuki_keyop/lib/kobuki_keyop/keyop /home/robot/ws/catkin_ws/devel/lib/kobuki_keyop/keyop
+/home/robot/ws/catkin_ws/devel/.private/kobuki_keyop/share/kobuki_keyop/cmake/kobuki_keyopConfig.cmake /home/robot/ws/catkin_ws/devel/share/kobuki_keyop/cmake/kobuki_keyopConfig.cmake
+/home/robot/ws/catkin_ws/devel/.private/kobuki_keyop/share/kobuki_keyop/cmake/kobuki_keyopConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/kobuki_keyop/cmake/kobuki_keyopConfig-version.cmake

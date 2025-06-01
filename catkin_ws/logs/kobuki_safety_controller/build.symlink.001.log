@@ -1,0 +1,4 @@
+Symlinking /home/robot/catkin_ws/devel/lib/libkobuki_safety_controller_nodelet.so
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_safety_controller.pc
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig.cmake

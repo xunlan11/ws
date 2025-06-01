@@ -1,0 +1,4 @@
+turtlebot_viz/turtlebot_dashboard
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_dashboard/lib/pkgconfig/turtlebot_dashboard.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_dashboard.pc
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_dashboard/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig-version.cmake
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_dashboard/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig.cmake /home/robot/ws/catkin_ws/devel/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig.cmake

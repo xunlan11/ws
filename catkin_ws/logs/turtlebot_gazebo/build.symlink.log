@@ -1,0 +1,16 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_gazebo.pc
+Symlinking /home/robot/ws/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-gazebo.sh
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_gazebo/lib/pkgconfig/turtlebot_gazebo.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_gazebo.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_gazebo/etc/catkin/profile.d/25.turtlebot-gazebo.sh, /home/robot/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-gazebo.sh)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_gazebo/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig-version.cmake, /home/robot/catkin_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_gazebo/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig.cmake, /home/robot/catkin_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_gazebo.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-gazebo.sh
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig.cmake
+Already unlinked: {}

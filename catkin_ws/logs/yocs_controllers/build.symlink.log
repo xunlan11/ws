@@ -1,0 +1,12 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/yocs_controllers.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/yocs_controllers/cmake/yocs_controllersConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/yocs_controllers/cmake/yocs_controllersConfig-version.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_controllers/lib/pkgconfig/yocs_controllers.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/yocs_controllers.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_controllers/share/yocs_controllers/cmake/yocs_controllersConfig.cmake, /home/robot/catkin_ws/devel/share/yocs_controllers/cmake/yocs_controllersConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_controllers/share/yocs_controllers/cmake/yocs_controllersConfig-version.cmake, /home/robot/catkin_ws/devel/share/yocs_controllers/cmake/yocs_controllersConfig-version.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/yocs_controllers.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/yocs_controllers/cmake/yocs_controllersConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/yocs_controllers/cmake/yocs_controllersConfig-version.cmake
+Already unlinked: {}

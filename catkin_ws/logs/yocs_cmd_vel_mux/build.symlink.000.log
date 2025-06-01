@@ -1,0 +1,11 @@
+Symlinking /home/robot/catkin_ws/devel/lib/libyocs_cmd_vel_mux_nodelet.so
+Symlinking /home/robot/catkin_ws/devel/lib/python3/dist-packages/yocs_cmd_vel_mux/__init__.py
+Symlinking /home/robot/catkin_ws/devel/lib/python3/dist-packages/yocs_cmd_vel_mux/cfg/reloadConfig.py
+Symlinking /home/robot/catkin_ws/devel/lib/python3/dist-packages/yocs_cmd_vel_mux/cfg/__init__.py
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/yocs_cmd_vel_mux.pc
+Symlinking /home/robot/catkin_ws/devel/include/yocs_cmd_vel_mux/reloadConfig.h
+Symlinking /home/robot/catkin_ws/devel/share/yocs_cmd_vel_mux/cmake/yocs_cmd_vel_muxConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/yocs_cmd_vel_mux/cmake/yocs_cmd_vel_muxConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/share/yocs_cmd_vel_mux/docs/reloadConfig.wikidoc
+Symlinking /home/robot/catkin_ws/devel/share/yocs_cmd_vel_mux/docs/reloadConfig.dox
+Symlinking /home/robot/catkin_ws/devel/share/yocs_cmd_vel_mux/docs/reloadConfig-usage.dox

@@ -1,0 +1,4 @@
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_teleop.pc
+Symlinking /home/robot/catkin_ws/devel/lib/turtlebot_teleop/turtlebot_teleop_joy
+Symlinking /home/robot/catkin_ws/devel/share/turtlebot_teleop/cmake/turtlebot_teleopConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/share/turtlebot_teleop/cmake/turtlebot_teleopConfig-version.cmake

@@ -1,0 +1,10 @@
+[35m[1mScanning dependencies of target yocs_cmd_vel_mux_gencfg[0m
+[ 25%] [34m[1mGenerating dynamic reconfigure files from cfg/reload.cfg: /home/robot/catkin_ws/devel/.private/yocs_cmd_vel_mux/include/yocs_cmd_vel_mux/reloadConfig.h /home/robot/catkin_ws/devel/.private/yocs_cmd_vel_mux/lib/python3/dist-packages/yocs_cmd_vel_mux/cfg/reloadConfig.py[0m
+Generating reconfiguration files for reload in yocs_cmd_vel_mux
+Wrote header file in /home/robot/catkin_ws/devel/.private/yocs_cmd_vel_mux/include/yocs_cmd_vel_mux/reloadConfig.h
+[ 25%] Built target yocs_cmd_vel_mux_gencfg
+[35m[1mScanning dependencies of target yocs_cmd_vel_mux_nodelet[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/yocs_cmd_vel_mux_nodelet.dir/src/cmd_vel_mux_nodelet.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/yocs_cmd_vel_mux_nodelet.dir/src/cmd_vel_subscribers.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/robot/catkin_ws/devel/.private/yocs_cmd_vel_mux/lib/libyocs_cmd_vel_mux_nodelet.so[0m
+[100%] Built target yocs_cmd_vel_mux_nodelet

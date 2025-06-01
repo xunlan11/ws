@@ -1,0 +1,4 @@
+freenect_stack/freenect_launch
+/home/robot/ws/catkin_ws/devel/.private/freenect_launch/lib/pkgconfig/freenect_launch.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/freenect_launch.pc
+/home/robot/ws/catkin_ws/devel/.private/freenect_launch/share/freenect_launch/cmake/freenect_launchConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/freenect_launch/cmake/freenect_launchConfig-version.cmake
+/home/robot/ws/catkin_ws/devel/.private/freenect_launch/share/freenect_launch/cmake/freenect_launchConfig.cmake /home/robot/ws/catkin_ws/devel/share/freenect_launch/cmake/freenect_launchConfig.cmake

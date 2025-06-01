@@ -1,0 +1,4 @@
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_keyop.pc
+Symlinking /home/robot/catkin_ws/devel/lib/kobuki_keyop/keyop
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_keyop/cmake/kobuki_keyopConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_keyop/cmake/kobuki_keyopConfig-version.cmake

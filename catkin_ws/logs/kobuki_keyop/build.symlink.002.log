@@ -1,0 +1,16 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/kobuki_keyop.pc
+Symlinking /home/robot/ws/catkin_ws/devel/lib/kobuki_keyop/keyop
+Symlinking /home/robot/ws/catkin_ws/devel/share/kobuki_keyop/cmake/kobuki_keyopConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/kobuki_keyop/cmake/kobuki_keyopConfig-version.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_keyop/lib/pkgconfig/kobuki_keyop.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_keyop.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_keyop/lib/kobuki_keyop/keyop, /home/robot/catkin_ws/devel/lib/kobuki_keyop/keyop)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_keyop/share/kobuki_keyop/cmake/kobuki_keyopConfig.cmake, /home/robot/catkin_ws/devel/share/kobuki_keyop/cmake/kobuki_keyopConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_keyop/share/kobuki_keyop/cmake/kobuki_keyopConfig-version.cmake, /home/robot/catkin_ws/devel/share/kobuki_keyop/cmake/kobuki_keyopConfig-version.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_keyop.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/kobuki_keyop/keyop
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/kobuki_keyop/cmake/kobuki_keyopConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/kobuki_keyop/cmake/kobuki_keyopConfig-version.cmake
+Already unlinked: {}

@@ -1,0 +1,20 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/turtlebot_navigation/laser_footprint_filter
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_navigation.pc
+Symlinking /home/robot/ws/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-navigation.sh
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_navigation/cmake/turtlebot_navigationConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_navigation/cmake/turtlebot_navigationConfig-version.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_navigation/lib/turtlebot_navigation/laser_footprint_filter, /home/robot/catkin_ws/devel/lib/turtlebot_navigation/laser_footprint_filter)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_navigation/lib/pkgconfig/turtlebot_navigation.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_navigation.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_navigation/etc/catkin/profile.d/25.turtlebot-navigation.sh, /home/robot/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-navigation.sh)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_navigation/share/turtlebot_navigation/cmake/turtlebot_navigationConfig.cmake, /home/robot/catkin_ws/devel/share/turtlebot_navigation/cmake/turtlebot_navigationConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_navigation/share/turtlebot_navigation/cmake/turtlebot_navigationConfig-version.cmake, /home/robot/catkin_ws/devel/share/turtlebot_navigation/cmake/turtlebot_navigationConfig-version.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/turtlebot_navigation/laser_footprint_filter
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_navigation.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-navigation.sh
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_navigation/cmake/turtlebot_navigationConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_navigation/cmake/turtlebot_navigationConfig-version.cmake
+Already unlinked: {}

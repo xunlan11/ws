@@ -1,0 +1,12 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_description.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_description/cmake/turtlebot_descriptionConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_description/cmake/turtlebot_descriptionConfig-version.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_description/lib/pkgconfig/turtlebot_description.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_description.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_description/share/turtlebot_description/cmake/turtlebot_descriptionConfig.cmake, /home/robot/catkin_ws/devel/share/turtlebot_description/cmake/turtlebot_descriptionConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_description/share/turtlebot_description/cmake/turtlebot_descriptionConfig-version.cmake, /home/robot/catkin_ws/devel/share/turtlebot_description/cmake/turtlebot_descriptionConfig-version.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_description.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_description/cmake/turtlebot_descriptionConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_description/cmake/turtlebot_descriptionConfig-version.cmake
+Already unlinked: {}

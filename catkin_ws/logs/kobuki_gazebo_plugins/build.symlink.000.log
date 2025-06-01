@@ -1,0 +1,4 @@
+Symlinking /home/robot/catkin_ws/devel/lib/libgazebo_ros_kobuki.so
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_gazebo_plugins.pc
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_gazebo_plugins/cmake/kobuki_gazebo_pluginsConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_gazebo_plugins/cmake/kobuki_gazebo_pluginsConfig.cmake

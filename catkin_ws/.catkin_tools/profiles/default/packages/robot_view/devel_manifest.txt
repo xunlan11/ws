@@ -1,0 +1,4 @@
+robot_view
+/home/robot/ws/catkin_ws/devel/.private/robot_view/lib/pkgconfig/robot_view.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/robot_view.pc
+/home/robot/ws/catkin_ws/devel/.private/robot_view/share/robot_view/cmake/robot_viewConfig.cmake /home/robot/ws/catkin_ws/devel/share/robot_view/cmake/robot_viewConfig.cmake
+/home/robot/ws/catkin_ws/devel/.private/robot_view/share/robot_view/cmake/robot_viewConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/robot_view/cmake/robot_viewConfig-version.cmake

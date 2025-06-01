@@ -1,0 +1,36 @@
+CMake Warning (dev) in /usr/src/googletest/googletest/CMakeLists.txt:
+  Policy CMP0022 is not set: INTERFACE_LINK_LIBRARIES defines the link
+  interface.  Run "cmake --help-policy CMP0022" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+  Target "gtest" has an INTERFACE_LINK_LIBRARIES property which differs from
+  its LINK_INTERFACE_LIBRARIES properties.
+
+  INTERFACE_LINK_LIBRARIES:
+
+    /usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;Threads::Threads
+
+  LINK_INTERFACE_LIBRARIES:
+
+    Threads::Threads
+
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in /usr/src/googletest/googlemock/CMakeLists.txt:
+  Policy CMP0022 is not set: INTERFACE_LINK_LIBRARIES defines the link
+  interface.  Run "cmake --help-policy CMP0022" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+  Target "gmock" has an INTERFACE_LINK_LIBRARIES property which differs from
+  its LINK_INTERFACE_LIBRARIES properties.
+
+  INTERFACE_LINK_LIBRARIES:
+
+    /usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;Threads::Threads;gtest
+
+  LINK_INTERFACE_LIBRARIES:
+
+    Threads::Threads;gtest
+
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

@@ -1,0 +1,3 @@
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/yocs_controllers.pc
+Symlinking /home/robot/catkin_ws/devel/share/yocs_controllers/cmake/yocs_controllersConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/share/yocs_controllers/cmake/yocs_controllersConfig-version.cmake

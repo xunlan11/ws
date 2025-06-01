@@ -1,0 +1,12 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_dashboard.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_dashboard/lib/pkgconfig/turtlebot_dashboard.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_dashboard.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_dashboard/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig-version.cmake, /home/robot/catkin_ws/devel/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_dashboard/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig.cmake, /home/robot/catkin_ws/devel/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_dashboard.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig.cmake
+Already unlinked: {}

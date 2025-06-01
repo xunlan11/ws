@@ -1,0 +1,6 @@
+kobuki_node
+/home/robot/ws/catkin_ws/devel/.private/kobuki_node/lib/libkobuki_ros.so /home/robot/ws/catkin_ws/devel/lib/libkobuki_ros.so
+/home/robot/ws/catkin_ws/devel/.private/kobuki_node/lib/libkobuki_nodelet.so /home/robot/ws/catkin_ws/devel/lib/libkobuki_nodelet.so
+/home/robot/ws/catkin_ws/devel/.private/kobuki_node/lib/pkgconfig/kobuki_node.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/kobuki_node.pc
+/home/robot/ws/catkin_ws/devel/.private/kobuki_node/share/kobuki_node/cmake/kobuki_nodeConfig.cmake /home/robot/ws/catkin_ws/devel/share/kobuki_node/cmake/kobuki_nodeConfig.cmake
+/home/robot/ws/catkin_ws/devel/.private/kobuki_node/share/kobuki_node/cmake/kobuki_nodeConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/kobuki_node/cmake/kobuki_nodeConfig-version.cmake

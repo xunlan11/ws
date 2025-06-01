@@ -1,0 +1,48 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/libfreenect_nodelet.so
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/cfg/FreenectConfig.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/cfg/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/freenect_camera.pc
+Symlinking /home/robot/ws/catkin_ws/devel/lib/freenect_camera/freenect_node
+Symlinking /home/robot/ws/catkin_ws/devel/include/freenect_camera/FreenectConfig.h
+Symlinking /home/robot/ws/catkin_ws/devel/share/freenect_camera/cmake/freenect_cameraConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/freenect_camera/cmake/freenect_cameraConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig.dox
+Symlinking /home/robot/ws/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig.wikidoc
+Symlinking /home/robot/ws/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig-usage.dox
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_camera/lib/libfreenect_nodelet.so, /home/robot/catkin_ws/devel/lib/libfreenect_nodelet.so)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_camera/lib/python3/dist-packages/freenect_camera/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_camera/lib/python3/dist-packages/freenect_camera/cfg/FreenectConfig.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/cfg/FreenectConfig.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_camera/lib/python3/dist-packages/freenect_camera/cfg/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/cfg/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_camera/lib/pkgconfig/freenect_camera.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/freenect_camera.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_camera/lib/freenect_camera/freenect_node, /home/robot/catkin_ws/devel/lib/freenect_camera/freenect_node)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_camera/include/freenect_camera/FreenectConfig.h, /home/robot/catkin_ws/devel/include/freenect_camera/FreenectConfig.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/cmake/freenect_cameraConfig.cmake, /home/robot/catkin_ws/devel/share/freenect_camera/cmake/freenect_cameraConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/cmake/freenect_cameraConfig-version.cmake, /home/robot/catkin_ws/devel/share/freenect_camera/cmake/freenect_cameraConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/docs/FreenectConfig.dox, /home/robot/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig.dox)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/docs/FreenectConfig.wikidoc, /home/robot/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig.wikidoc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/docs/FreenectConfig-usage.dox, /home/robot/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig-usage.dox)
+Unlinking: /home/robot/catkin_ws/devel/lib/libfreenect_nodelet.so
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/cfg/FreenectConfig.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/cfg/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/freenect_camera.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/freenect_camera/freenect_node
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/freenect_camera/FreenectConfig.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/freenect_camera/cmake/freenect_cameraConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/freenect_camera/cmake/freenect_cameraConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig.dox
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig.wikidoc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig-usage.dox
+Already unlinked: {}

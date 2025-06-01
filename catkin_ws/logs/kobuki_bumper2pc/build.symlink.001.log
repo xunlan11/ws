@@ -1,0 +1,4 @@
+Symlinking /home/robot/catkin_ws/devel/lib/libkobuki_bumper2pc_nodelet.so
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_bumper2pc.pc
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_bumper2pc/cmake/kobuki_bumper2pcConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_bumper2pc/cmake/kobuki_bumper2pcConfig.cmake

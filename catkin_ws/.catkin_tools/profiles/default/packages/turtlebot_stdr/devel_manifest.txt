@@ -1,0 +1,5 @@
+turtlebot_simulator/turtlebot_stdr
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_stdr/lib/pkgconfig/turtlebot_stdr.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_stdr.pc
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_stdr/etc/catkin/profile.d/25.turtlebot-stdr.sh /home/robot/ws/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-stdr.sh
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_stdr/share/turtlebot_stdr/cmake/turtlebot_stdrConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/turtlebot_stdr/cmake/turtlebot_stdrConfig-version.cmake
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_stdr/share/turtlebot_stdr/cmake/turtlebot_stdrConfig.cmake /home/robot/ws/catkin_ws/devel/share/turtlebot_stdr/cmake/turtlebot_stdrConfig.cmake

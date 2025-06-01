@@ -1,0 +1,6 @@
+Symlinking /home/robot/catkin_ws/devel/lib/robot_voice/iat_publish
+Symlinking /home/robot/catkin_ws/devel/lib/robot_voice/voice_control
+Symlinking /home/robot/catkin_ws/devel/lib/robot_voice/tts_subscribe
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/robot_voice.pc
+Symlinking /home/robot/catkin_ws/devel/share/robot_voice/cmake/robot_voiceConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/robot_voice/cmake/robot_voiceConfig.cmake

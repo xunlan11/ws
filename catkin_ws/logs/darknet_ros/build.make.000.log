@@ -1,0 +1,98 @@
+[35m[1mScanning dependencies of target darknet_ros_msgs_generate_messages_cpp[0m
+[  0%] Built target darknet_ros_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target darknet_ros_lib[0m
+[  4%] [32mBuilding CXX object CMakeFiles/darknet_ros_lib.dir/src/image_interface.cpp.o[0m
+[  4%] [32mBuilding CXX object CMakeFiles/darknet_ros_lib.dir/src/YoloObjectDetector.cpp.o[0m
+[  5%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/image.c.o[0m
+[  4%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/im2col.c.o[0m
+[  7%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/activation_layer.c.o[0m
+[  8%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/activations.c.o[0m
+[ 10%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/avgpool_layer.c.o[0m
+[ 11%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/batchnorm_layer.c.o[0m
+[ 12%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/layer.c.o[0m
+[ 14%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/blas.c.o[0m
+[ 15%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/list.c.o[0m
+[ 17%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/local_layer.c.o[0m
+[ 18%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/box.c.o[0m
+[ 20%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/lstm_layer.c.o[0m
+[ 21%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/col2im.c.o[0m
+[ 22%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/matrix.c.o[0m
+[ 24%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/connected_layer.c.o[0m
+[ 25%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/maxpool_layer.c.o[0m
+[ 27%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/convolutional_layer.c.o[0m
+[ 28%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/cost_layer.c.o[0m
+[ 31%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/network.c.o[0m
+[ 31%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/normalization_layer.c.o[0m
+[ 32%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/crnn_layer.c.o[0m
+[ 34%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/option_list.c.o[0m
+[ 35%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/crop_layer.c.o[0m
+[ 37%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/parser.c.o[0m
+[ 38%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/cuda.c.o[0m
+[ 40%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/data.c.o[0m
+[ 41%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/region_layer.c.o[0m
+[ 42%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/reorg_layer.c.o[0m
+[ 44%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/rnn_layer.c.o[0m
+[ 45%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/deconvolutional_layer.c.o[0m
+[ 47%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/demo.c.o[0m
+[ 48%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/route_layer.c.o[0m
+[ 50%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/detection_layer.c.o[0m
+[ 51%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/shortcut_layer.c.o[0m
+[ 52%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/dropout_layer.c.o[0m
+[ 54%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/softmax_layer.c.o[0m
+[ 57%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/gemm.c.o[0m
+[ 57%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/tree.c.o[0m
+[ 58%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/gru_layer.c.o[0m
+[ 60%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/utils.c.o[0m
+[ 61%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/upsample_layer.c.o[0m
+[ 62%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/logistic_layer.c.o[0m
+[ 64%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/l2norm_layer.c.o[0m
+[ 65%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/iseg_layer.c.o[0m
+[ 67%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/yolo_layer.c.o[0m
+[ 68%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/art.c.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/src/image_opencv.cpp.o[0m
+[ 71%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/lsd.c.o[0m
+[ 72%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/instance-segmenter.c.o[0m
+[ 74%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/nightmare.c.o[0m
+[ 75%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/captcha.c.o[0m
+[ 77%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/regressor.c.o[0m
+[ 78%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/cifar.c.o[0m
+[ 80%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/classifier.c.o[0m
+[ 81%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/rnn.c.o[0m
+[ 82%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/segmenter.c.o[0m
+[ 84%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/coco.c.o[0m
+[ 85%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/super.c.o[0m
+In file included from [01m[K/usr/include/string.h:495[m[K,
+                 from [01m[K/home/robot/catkin_ws/src/darknet_ros/darknet/src/utils.c:3[m[K:
+In function ‘[01m[Kstrncpy[m[K’,
+    inlined from ‘[01m[Kcopy_string[m[K’ at [01m[K/home/robot/catkin_ws/src/darknet_ros/darknet/src/utils.c:426:5[m[K:
+[01m[K/usr/include/x86_64-linux-gnu/bits/string_fortified.h:106:10:[m[K [01;35m[Kwarning: [m[K‘[01m[K__builtin_strncpy[m[K’ specified bound depends on the length of the source argument [[01;35m[K-Wstringop-overflow=[m[K]
+  106 |   return [01;35m[K__builtin___strncpy_chk (__dest, __src, __len, __bos (__dest))[m[K;
+      |          [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/robot/catkin_ws/src/darknet_ros/darknet/src/utils.c:[m[K In function ‘[01m[Kcopy_string[m[K’:
+[01m[K/home/robot/catkin_ws/src/darknet_ros/darknet/src/utils.c:426:22:[m[K [01;36m[Knote: [m[Klength computed here
+  426 |     strncpy(copy, s, [01;36m[Kstrlen(s)[m[K+1);
+      |                      [01;36m[K^~~~~~~~~[m[K
+[ 87%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/darknet.c.o[0m
+[ 88%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/tag.c.o[0m
+[ 90%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/detector.c.o[0m
+[ 91%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/yolo.c.o[0m
+[ 92%] [32mBuilding C object CMakeFiles/darknet_ros_lib.dir/home/robot/catkin_ws/src/darknet_ros/darknet/examples/go.c.o[0m
+[01m[K/home/robot/catkin_ws/src/darknet_ros/darknet_ros/src/image_interface.cpp:[m[K In function ‘[01m[Kimage** load_alphabet_with_file(char*)[m[K’:
+[01m[K/home/robot/catkin_ws/src/darknet_ros/darknet_ros/src/image_interface.cpp:20:18:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [[01;35m[K-Wwrite-strings[m[K]
+   20 |   char* labels = [01;35m[K"/labels/%d_%d.png"[m[K;
+      |                  [01;35m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/robot/catkin_ws/src/darknet_ros/darknet/src/image_opencv.cpp:[m[K In function ‘[01m[Kimage load_image_cv(char*, int)[m[K’:
+[01m[K/home/robot/catkin_ws/src/darknet_ros/darknet/src/image_opencv.cpp:89:15:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kint system(const char*)[m[K’, declared with attribute warn_unused_result [[01;35m[K-Wunused-result[m[K]
+   89 |         [01;35m[Ksystem(buff)[m[K;
+      |         [01;35m[K~~~~~~^~~~~~[m[K
+[ 94%] [32m[1mLinking CXX shared library /home/robot/catkin_ws/devel/.private/darknet_ros/lib/libdarknet_ros_lib.so[0m
+[ 94%] Built target darknet_ros_lib
+[35m[1mScanning dependencies of target darknet_ros_nodelet[0m
+[35m[1mScanning dependencies of target darknet_ros[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/darknet_ros.dir/src/yolo_object_detector_node.cpp.o[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/darknet_ros_nodelet.dir/src/yolo_object_detector_nodelet.cpp.o[0m
+[ 98%] [32m[1mLinking CXX executable /home/robot/catkin_ws/devel/.private/darknet_ros/lib/darknet_ros/darknet_ros[0m
+[100%] [32m[1mLinking CXX shared library /home/robot/catkin_ws/devel/.private/darknet_ros/lib/libdarknet_ros_nodelet.so[0m
+[100%] Built target darknet_ros_nodelet
+/usr/bin/ld: warning: libopencv_highgui.so.4.2, needed by /home/robot/catkin_ws/devel/.private/darknet_ros/lib/libdarknet_ros_lib.so, may conflict with libopencv_highgui.so.3.4
+[100%] Built target darknet_ros

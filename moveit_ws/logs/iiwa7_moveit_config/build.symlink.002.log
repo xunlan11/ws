@@ -1,0 +1,3 @@
+Symlinking /home/robot/moveit_ws/devel/lib/pkgconfig/iiwa7_moveit_config.pc
+Symlinking /home/robot/moveit_ws/devel/share/iiwa7_moveit_config/cmake/iiwa7_moveit_configConfig.cmake
+Symlinking /home/robot/moveit_ws/devel/share/iiwa7_moveit_config/cmake/iiwa7_moveit_configConfig-version.cmake

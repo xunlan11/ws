@@ -1,0 +1,12 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/kobuki_description.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/kobuki_description/cmake/kobuki_descriptionConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/kobuki_description/cmake/kobuki_descriptionConfig.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_description/lib/pkgconfig/kobuki_description.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_description.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_description/share/kobuki_description/cmake/kobuki_descriptionConfig-version.cmake, /home/robot/catkin_ws/devel/share/kobuki_description/cmake/kobuki_descriptionConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_description/share/kobuki_description/cmake/kobuki_descriptionConfig.cmake, /home/robot/catkin_ws/devel/share/kobuki_description/cmake/kobuki_descriptionConfig.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_description.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/kobuki_description/cmake/kobuki_descriptionConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/kobuki_description/cmake/kobuki_descriptionConfig.cmake
+Already unlinked: {}

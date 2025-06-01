@@ -1,0 +1,3 @@
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/freenect_launch.pc
+Symlinking /home/robot/catkin_ws/devel/share/freenect_launch/cmake/freenect_launchConfig-version.cmake
+Symlinking /home/robot/catkin_ws/devel/share/freenect_launch/cmake/freenect_launchConfig.cmake

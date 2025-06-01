@@ -1,0 +1,4 @@
+main_pkg
+/home/robot/catkin_ws/devel/.private/main_pkg/lib/pkgconfig/main_pkg.pc /home/robot/catkin_ws/devel/lib/pkgconfig/main_pkg.pc
+/home/robot/catkin_ws/devel/.private/main_pkg/share/main_pkg/cmake/main_pkgConfig.cmake /home/robot/catkin_ws/devel/share/main_pkg/cmake/main_pkgConfig.cmake
+/home/robot/catkin_ws/devel/.private/main_pkg/share/main_pkg/cmake/main_pkgConfig-version.cmake /home/robot/catkin_ws/devel/share/main_pkg/cmake/main_pkgConfig-version.cmake

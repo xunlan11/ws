@@ -1,0 +1,16 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/libkobuki_safety_controller_nodelet.so
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/kobuki_safety_controller.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_safety_controller/lib/libkobuki_safety_controller_nodelet.so, /home/robot/catkin_ws/devel/lib/libkobuki_safety_controller_nodelet.so)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_safety_controller/lib/pkgconfig/kobuki_safety_controller.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_safety_controller.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_safety_controller/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig-version.cmake, /home/robot/catkin_ws/devel/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_safety_controller/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig.cmake, /home/robot/catkin_ws/devel/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/libkobuki_safety_controller_nodelet.so
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_safety_controller.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig.cmake
+Already unlinked: {}

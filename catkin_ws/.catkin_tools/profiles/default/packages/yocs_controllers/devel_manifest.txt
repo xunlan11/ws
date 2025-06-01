@@ -1,0 +1,4 @@
+yocs_controllers
+/home/robot/ws/catkin_ws/devel/.private/yocs_controllers/lib/pkgconfig/yocs_controllers.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/yocs_controllers.pc
+/home/robot/ws/catkin_ws/devel/.private/yocs_controllers/share/yocs_controllers/cmake/yocs_controllersConfig.cmake /home/robot/ws/catkin_ws/devel/share/yocs_controllers/cmake/yocs_controllersConfig.cmake
+/home/robot/ws/catkin_ws/devel/.private/yocs_controllers/share/yocs_controllers/cmake/yocs_controllersConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/yocs_controllers/cmake/yocs_controllersConfig-version.cmake

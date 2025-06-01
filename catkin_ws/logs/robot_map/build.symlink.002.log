@@ -1,0 +1,12 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/robot_map.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/robot_map/cmake/robot_mapConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/robot_map/cmake/robot_mapConfig-version.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/robot_map/lib/pkgconfig/robot_map.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/robot_map.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/robot_map/share/robot_map/cmake/robot_mapConfig.cmake, /home/robot/catkin_ws/devel/share/robot_map/cmake/robot_mapConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/robot_map/share/robot_map/cmake/robot_mapConfig-version.cmake, /home/robot/catkin_ws/devel/share/robot_map/cmake/robot_mapConfig-version.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/robot_map.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/robot_map/cmake/robot_mapConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/robot_map/cmake/robot_mapConfig-version.cmake
+Already unlinked: {}

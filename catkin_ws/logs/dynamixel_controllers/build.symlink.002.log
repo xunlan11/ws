@@ -1,0 +1,336 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetTorqueLimit.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_RestartController.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetCompliancePunch.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_StopController.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetComplianceSlope.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetSpeed.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_StartController.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetComplianceMargin.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_TorqueEnable.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/dynamixel_controllers.pc
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetTorqueLimitRequest.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetComplianceSlopeRequest.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetComplianceMarginRequest.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/TorqueEnableResponse.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetCompliancePunchResponse.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetCompliancePunchRequest.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/StartControllerRequest.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetSpeedResponse.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetTorqueLimitResponse.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/RestartControllerRequest.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetSpeed.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/RestartControllerResponse.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/StartController.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/StartControllerResponse.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetSpeedRequest.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/RestartController.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetComplianceMargin.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetCompliancePunch.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetComplianceSlopeResponse.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/StopControllerResponse.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetComplianceMarginResponse.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/TorqueEnableRequest.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/StopController.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/StopControllerRequest.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetComplianceSlope.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/TorqueEnable.h
+Symlinking /home/robot/ws/catkin_ws/devel/include/dynamixel_controllers/SetTorqueLimit.h
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetComplianceSlope.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/TorqueEnable.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetComplianceMargin.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetSpeed.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_RestartController.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetCompliancePunch.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetSpeed.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_StartController.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetComplianceMargin.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/StartController.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/dynamixel_controllers-srv.asd
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/StopController.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_StopController.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/RestartController.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetCompliancePunch.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetComplianceSlope.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetTorqueLimit.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_TorqueEnable.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetTorqueLimit.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package.lisp
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/_index.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetComplianceSlope.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetTorqueLimit.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/StartController.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetComplianceMargin.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/_index.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/TorqueEnable.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/StopController.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetCompliancePunch.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetSpeed.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/RestartController.js
+Symlinking /home/robot/ws/catkin_ws/devel/share/dynamixel_controllers/cmake/dynamixel_controllers-msg-extras.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/dynamixel_controllers/cmake/dynamixel_controllersConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/dynamixel_controllers/cmake/dynamixel_controllers-msg-paths.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/dynamixel_controllers/cmake/dynamixel_controllersConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/manifest.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetSpeed.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/StopController.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetComplianceSlope.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetComplianceMargin.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/TorqueEnable.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/RestartController.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetTorqueLimit.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/StartController.l
+Symlinking /home/robot/ws/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetCompliancePunch.l
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/lib/python3/dist-packages/dynamixel_controllers/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/lib/python3/dist-packages/dynamixel_controllers/srv/_SetTorqueLimit.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetTorqueLimit.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/lib/python3/dist-packages/dynamixel_controllers/srv/_RestartController.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_RestartController.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/lib/python3/dist-packages/dynamixel_controllers/srv/_SetCompliancePunch.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetCompliancePunch.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/lib/python3/dist-packages/dynamixel_controllers/srv/_StopController.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_StopController.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/lib/python3/dist-packages/dynamixel_controllers/srv/_SetComplianceSlope.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetComplianceSlope.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/lib/python3/dist-packages/dynamixel_controllers/srv/_SetSpeed.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetSpeed.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/lib/python3/dist-packages/dynamixel_controllers/srv/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/lib/python3/dist-packages/dynamixel_controllers/srv/_StartController.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_StartController.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/lib/python3/dist-packages/dynamixel_controllers/srv/_SetComplianceMargin.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetComplianceMargin.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/lib/python3/dist-packages/dynamixel_controllers/srv/_TorqueEnable.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_TorqueEnable.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/lib/pkgconfig/dynamixel_controllers.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/dynamixel_controllers.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetTorqueLimitRequest.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetTorqueLimitRequest.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetComplianceSlopeRequest.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetComplianceSlopeRequest.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetComplianceMarginRequest.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetComplianceMarginRequest.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/TorqueEnableResponse.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/TorqueEnableResponse.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetCompliancePunchResponse.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetCompliancePunchResponse.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetCompliancePunchRequest.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetCompliancePunchRequest.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/StartControllerRequest.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/StartControllerRequest.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetSpeedResponse.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetSpeedResponse.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetTorqueLimitResponse.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetTorqueLimitResponse.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/RestartControllerRequest.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/RestartControllerRequest.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetSpeed.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetSpeed.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/RestartControllerResponse.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/RestartControllerResponse.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/StartController.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/StartController.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/StartControllerResponse.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/StartControllerResponse.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetSpeedRequest.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetSpeedRequest.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/RestartController.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/RestartController.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetComplianceMargin.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetComplianceMargin.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetCompliancePunch.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetCompliancePunch.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetComplianceSlopeResponse.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetComplianceSlopeResponse.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/StopControllerResponse.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/StopControllerResponse.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetComplianceMarginResponse.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetComplianceMarginResponse.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/TorqueEnableRequest.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/TorqueEnableRequest.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/StopController.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/StopController.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/StopControllerRequest.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/StopControllerRequest.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetComplianceSlope.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetComplianceSlope.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/TorqueEnable.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/TorqueEnable.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/include/dynamixel_controllers/SetTorqueLimit.h, /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetTorqueLimit.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/SetComplianceSlope.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetComplianceSlope.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/TorqueEnable.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/TorqueEnable.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetComplianceMargin.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetComplianceMargin.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/SetSpeed.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetSpeed.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/_package_RestartController.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_RestartController.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/SetCompliancePunch.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetCompliancePunch.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetSpeed.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetSpeed.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/_package_StartController.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_StartController.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/SetComplianceMargin.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetComplianceMargin.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/StartController.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/StartController.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/dynamixel_controllers-srv.asd, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/dynamixel_controllers-srv.asd)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/StopController.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/StopController.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/_package_StopController.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_StopController.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/RestartController.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/RestartController.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetCompliancePunch.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetCompliancePunch.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetComplianceSlope.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetComplianceSlope.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/SetTorqueLimit.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetTorqueLimit.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/_package_TorqueEnable.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_TorqueEnable.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetTorqueLimit.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetTorqueLimit.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/common-lisp/ros/dynamixel_controllers/srv/_package.lisp, /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package.lisp)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/gennodejs/ros/dynamixel_controllers/_index.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/_index.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/gennodejs/ros/dynamixel_controllers/srv/SetComplianceSlope.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetComplianceSlope.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/gennodejs/ros/dynamixel_controllers/srv/SetTorqueLimit.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetTorqueLimit.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/gennodejs/ros/dynamixel_controllers/srv/StartController.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/StartController.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/gennodejs/ros/dynamixel_controllers/srv/SetComplianceMargin.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetComplianceMargin.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/gennodejs/ros/dynamixel_controllers/srv/_index.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/_index.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/gennodejs/ros/dynamixel_controllers/srv/TorqueEnable.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/TorqueEnable.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/gennodejs/ros/dynamixel_controllers/srv/StopController.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/StopController.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/gennodejs/ros/dynamixel_controllers/srv/SetCompliancePunch.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetCompliancePunch.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/gennodejs/ros/dynamixel_controllers/srv/SetSpeed.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetSpeed.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/gennodejs/ros/dynamixel_controllers/srv/RestartController.js, /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/RestartController.js)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/dynamixel_controllers/cmake/dynamixel_controllers-msg-extras.cmake, /home/robot/catkin_ws/devel/share/dynamixel_controllers/cmake/dynamixel_controllers-msg-extras.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/dynamixel_controllers/cmake/dynamixel_controllersConfig.cmake, /home/robot/catkin_ws/devel/share/dynamixel_controllers/cmake/dynamixel_controllersConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/dynamixel_controllers/cmake/dynamixel_controllers-msg-paths.cmake, /home/robot/catkin_ws/devel/share/dynamixel_controllers/cmake/dynamixel_controllers-msg-paths.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/dynamixel_controllers/cmake/dynamixel_controllersConfig-version.cmake, /home/robot/catkin_ws/devel/share/dynamixel_controllers/cmake/dynamixel_controllersConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/roseus/ros/dynamixel_controllers/manifest.l, /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/manifest.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/roseus/ros/dynamixel_controllers/srv/SetSpeed.l, /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetSpeed.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/roseus/ros/dynamixel_controllers/srv/StopController.l, /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/StopController.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/roseus/ros/dynamixel_controllers/srv/SetComplianceSlope.l, /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetComplianceSlope.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/roseus/ros/dynamixel_controllers/srv/SetComplianceMargin.l, /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetComplianceMargin.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/roseus/ros/dynamixel_controllers/srv/TorqueEnable.l, /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/TorqueEnable.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/roseus/ros/dynamixel_controllers/srv/RestartController.l, /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/RestartController.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/roseus/ros/dynamixel_controllers/srv/SetTorqueLimit.l, /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetTorqueLimit.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/roseus/ros/dynamixel_controllers/srv/StartController.l, /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/StartController.l)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_controllers/share/roseus/ros/dynamixel_controllers/srv/SetCompliancePunch.l, /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetCompliancePunch.l)
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetTorqueLimit.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_RestartController.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetCompliancePunch.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_StopController.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetComplianceSlope.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetSpeed.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_StartController.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_SetComplianceMargin.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_controllers/srv/_TorqueEnable.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/dynamixel_controllers.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetTorqueLimitRequest.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetComplianceSlopeRequest.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetComplianceMarginRequest.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/TorqueEnableResponse.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetCompliancePunchResponse.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetCompliancePunchRequest.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/StartControllerRequest.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetSpeedResponse.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetTorqueLimitResponse.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/RestartControllerRequest.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetSpeed.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/RestartControllerResponse.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/StartController.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/StartControllerResponse.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetSpeedRequest.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/RestartController.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetComplianceMargin.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetCompliancePunch.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetComplianceSlopeResponse.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/StopControllerResponse.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetComplianceMarginResponse.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/TorqueEnableRequest.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/StopController.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/StopControllerRequest.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetComplianceSlope.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/TorqueEnable.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/dynamixel_controllers/SetTorqueLimit.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetComplianceSlope.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/TorqueEnable.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetComplianceMargin.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetSpeed.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_RestartController.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetCompliancePunch.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetSpeed.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_StartController.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetComplianceMargin.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/StartController.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/dynamixel_controllers-srv.asd
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/StopController.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_StopController.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/RestartController.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetCompliancePunch.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetComplianceSlope.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/SetTorqueLimit.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_TorqueEnable.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package_SetTorqueLimit.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/common-lisp/ros/dynamixel_controllers/srv/_package.lisp
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/_index.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetComplianceSlope.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetTorqueLimit.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/StartController.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetComplianceMargin.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/_index.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/TorqueEnable.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/StopController.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetCompliancePunch.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/SetSpeed.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/gennodejs/ros/dynamixel_controllers/srv/RestartController.js
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/dynamixel_controllers/cmake/dynamixel_controllers-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/dynamixel_controllers/cmake/dynamixel_controllersConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/dynamixel_controllers/cmake/dynamixel_controllers-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/dynamixel_controllers/cmake/dynamixel_controllersConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/manifest.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetSpeed.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/StopController.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetComplianceSlope.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetComplianceMargin.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/TorqueEnable.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/RestartController.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetTorqueLimit.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/StartController.l
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/roseus/ros/dynamixel_controllers/srv/SetCompliancePunch.l
+Already unlinked: {}

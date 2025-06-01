@@ -1,0 +1,16 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_stage.pc
+Symlinking /home/robot/ws/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-stage.sh
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_stage/cmake/turtlebot_stageConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_stage/cmake/turtlebot_stageConfig.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_stage/lib/pkgconfig/turtlebot_stage.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_stage.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_stage/etc/catkin/profile.d/25.turtlebot-stage.sh, /home/robot/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-stage.sh)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_stage/share/turtlebot_stage/cmake/turtlebot_stageConfig-version.cmake, /home/robot/catkin_ws/devel/share/turtlebot_stage/cmake/turtlebot_stageConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_stage/share/turtlebot_stage/cmake/turtlebot_stageConfig.cmake, /home/robot/catkin_ws/devel/share/turtlebot_stage/cmake/turtlebot_stageConfig.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_stage.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-stage.sh
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_stage/cmake/turtlebot_stageConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_stage/cmake/turtlebot_stageConfig.cmake
+Already unlinked: {}

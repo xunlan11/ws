@@ -1,0 +1,16 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/dynamixel_driver/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/dynamixel_driver.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/dynamixel_driver/cmake/dynamixel_driverConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/dynamixel_driver/cmake/dynamixel_driverConfig.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_driver/lib/python3/dist-packages/dynamixel_driver/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_driver/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_driver/lib/pkgconfig/dynamixel_driver.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/dynamixel_driver.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_driver/share/dynamixel_driver/cmake/dynamixel_driverConfig-version.cmake, /home/robot/catkin_ws/devel/share/dynamixel_driver/cmake/dynamixel_driverConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/dynamixel_driver/share/dynamixel_driver/cmake/dynamixel_driverConfig.cmake, /home/robot/catkin_ws/devel/share/dynamixel_driver/cmake/dynamixel_driverConfig.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/dynamixel_driver/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/dynamixel_driver.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/dynamixel_driver/cmake/dynamixel_driverConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/dynamixel_driver/cmake/dynamixel_driverConfig.cmake
+Already unlinked: {}

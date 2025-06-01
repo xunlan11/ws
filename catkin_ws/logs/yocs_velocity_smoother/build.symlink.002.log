@@ -1,0 +1,44 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/libyocs_velocity_smoother_nodelet.so
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/yocs_velocity_smoother/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/yocs_velocity_smoother/cfg/paramsConfig.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/yocs_velocity_smoother/cfg/__init__.py
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/yocs_velocity_smoother.pc
+Symlinking /home/robot/ws/catkin_ws/devel/include/yocs_velocity_smoother/paramsConfig.h
+Symlinking /home/robot/ws/catkin_ws/devel/share/yocs_velocity_smoother/cmake/yocs_velocity_smootherConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/yocs_velocity_smoother/cmake/yocs_velocity_smootherConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/yocs_velocity_smoother/docs/paramsConfig.wikidoc
+Symlinking /home/robot/ws/catkin_ws/devel/share/yocs_velocity_smoother/docs/paramsConfig-usage.dox
+Symlinking /home/robot/ws/catkin_ws/devel/share/yocs_velocity_smoother/docs/paramsConfig.dox
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_velocity_smoother/lib/libyocs_velocity_smoother_nodelet.so, /home/robot/catkin_ws/devel/lib/libyocs_velocity_smoother_nodelet.so)
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_velocity_smoother/lib/python3/dist-packages/yocs_velocity_smoother/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/yocs_velocity_smoother/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_velocity_smoother/lib/python3/dist-packages/yocs_velocity_smoother/cfg/paramsConfig.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/yocs_velocity_smoother/cfg/paramsConfig.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_velocity_smoother/lib/python3/dist-packages/yocs_velocity_smoother/cfg/__init__.py, /home/robot/catkin_ws/devel/lib/python3/dist-packages/yocs_velocity_smoother/cfg/__init__.py)
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_velocity_smoother/lib/pkgconfig/yocs_velocity_smoother.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/yocs_velocity_smoother.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_velocity_smoother/include/yocs_velocity_smoother/paramsConfig.h, /home/robot/catkin_ws/devel/include/yocs_velocity_smoother/paramsConfig.h)
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_velocity_smoother/share/yocs_velocity_smoother/cmake/yocs_velocity_smootherConfig-version.cmake, /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/cmake/yocs_velocity_smootherConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_velocity_smoother/share/yocs_velocity_smoother/cmake/yocs_velocity_smootherConfig.cmake, /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/cmake/yocs_velocity_smootherConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_velocity_smoother/share/yocs_velocity_smoother/docs/paramsConfig.wikidoc, /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/docs/paramsConfig.wikidoc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_velocity_smoother/share/yocs_velocity_smoother/docs/paramsConfig-usage.dox, /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/docs/paramsConfig-usage.dox)
+Cleaning: (/home/robot/catkin_ws/devel/.private/yocs_velocity_smoother/share/yocs_velocity_smoother/docs/paramsConfig.dox, /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/docs/paramsConfig.dox)
+Unlinking: /home/robot/catkin_ws/devel/lib/libyocs_velocity_smoother_nodelet.so
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/yocs_velocity_smoother/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/yocs_velocity_smoother/cfg/paramsConfig.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/python3/dist-packages/yocs_velocity_smoother/cfg/__init__.py
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/yocs_velocity_smoother.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/include/yocs_velocity_smoother/paramsConfig.h
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/cmake/yocs_velocity_smootherConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/cmake/yocs_velocity_smootherConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/docs/paramsConfig.wikidoc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/docs/paramsConfig-usage.dox
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/yocs_velocity_smoother/docs/paramsConfig.dox
+Already unlinked: {}

@@ -1,0 +1,3 @@
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/main_pkg.pc
+Symlinking /home/robot/catkin_ws/devel/share/main_pkg/cmake/main_pkgConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/share/main_pkg/cmake/main_pkgConfig-version.cmake

@@ -1,0 +1,13 @@
+freenect_stack/freenect_camera
+/home/robot/ws/catkin_ws/devel/.private/freenect_camera/lib/libfreenect_nodelet.so /home/robot/ws/catkin_ws/devel/lib/libfreenect_nodelet.so
+/home/robot/ws/catkin_ws/devel/.private/freenect_camera/lib/python3/dist-packages/freenect_camera/__init__.py /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/__init__.py
+/home/robot/ws/catkin_ws/devel/.private/freenect_camera/lib/python3/dist-packages/freenect_camera/cfg/FreenectConfig.py /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/cfg/FreenectConfig.py
+/home/robot/ws/catkin_ws/devel/.private/freenect_camera/lib/python3/dist-packages/freenect_camera/cfg/__init__.py /home/robot/ws/catkin_ws/devel/lib/python3/dist-packages/freenect_camera/cfg/__init__.py
+/home/robot/ws/catkin_ws/devel/.private/freenect_camera/lib/pkgconfig/freenect_camera.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/freenect_camera.pc
+/home/robot/ws/catkin_ws/devel/.private/freenect_camera/lib/freenect_camera/freenect_node /home/robot/ws/catkin_ws/devel/lib/freenect_camera/freenect_node
+/home/robot/ws/catkin_ws/devel/.private/freenect_camera/include/freenect_camera/FreenectConfig.h /home/robot/ws/catkin_ws/devel/include/freenect_camera/FreenectConfig.h
+/home/robot/ws/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/cmake/freenect_cameraConfig.cmake /home/robot/ws/catkin_ws/devel/share/freenect_camera/cmake/freenect_cameraConfig.cmake
+/home/robot/ws/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/cmake/freenect_cameraConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/freenect_camera/cmake/freenect_cameraConfig-version.cmake
+/home/robot/ws/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/docs/FreenectConfig.dox /home/robot/ws/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig.dox
+/home/robot/ws/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/docs/FreenectConfig.wikidoc /home/robot/ws/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig.wikidoc
+/home/robot/ws/catkin_ws/devel/.private/freenect_camera/share/freenect_camera/docs/FreenectConfig-usage.dox /home/robot/ws/catkin_ws/devel/share/freenect_camera/docs/FreenectConfig-usage.dox

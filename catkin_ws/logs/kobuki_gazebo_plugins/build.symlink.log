@@ -1,0 +1,16 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/libgazebo_ros_kobuki.so
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/kobuki_gazebo_plugins.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/kobuki_gazebo_plugins/cmake/kobuki_gazebo_pluginsConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/kobuki_gazebo_plugins/cmake/kobuki_gazebo_pluginsConfig.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_gazebo_plugins/lib/libgazebo_ros_kobuki.so, /home/robot/catkin_ws/devel/lib/libgazebo_ros_kobuki.so)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_gazebo_plugins/lib/pkgconfig/kobuki_gazebo_plugins.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_gazebo_plugins.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_gazebo_plugins/share/kobuki_gazebo_plugins/cmake/kobuki_gazebo_pluginsConfig-version.cmake, /home/robot/catkin_ws/devel/share/kobuki_gazebo_plugins/cmake/kobuki_gazebo_pluginsConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/kobuki_gazebo_plugins/share/kobuki_gazebo_plugins/cmake/kobuki_gazebo_pluginsConfig.cmake, /home/robot/catkin_ws/devel/share/kobuki_gazebo_plugins/cmake/kobuki_gazebo_pluginsConfig.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/libgazebo_ros_kobuki.so
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_gazebo_plugins.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/kobuki_gazebo_plugins/cmake/kobuki_gazebo_pluginsConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/kobuki_gazebo_plugins/cmake/kobuki_gazebo_pluginsConfig.cmake
+Already unlinked: {}

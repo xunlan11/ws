@@ -1,0 +1,12 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/my_dynamixel.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/my_dynamixel/cmake/my_dynamixelConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/my_dynamixel/cmake/my_dynamixelConfig.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/my_dynamixel/lib/pkgconfig/my_dynamixel.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/my_dynamixel.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/my_dynamixel/share/my_dynamixel/cmake/my_dynamixelConfig-version.cmake, /home/robot/catkin_ws/devel/share/my_dynamixel/cmake/my_dynamixelConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/my_dynamixel/share/my_dynamixel/cmake/my_dynamixelConfig.cmake, /home/robot/catkin_ws/devel/share/my_dynamixel/cmake/my_dynamixelConfig.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/my_dynamixel.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/my_dynamixel/cmake/my_dynamixelConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/my_dynamixel/cmake/my_dynamixelConfig.cmake
+Already unlinked: {}

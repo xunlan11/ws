@@ -1,0 +1,16 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/turtlebot_interactive_markers/turtlebot_marker_server
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_interactive_markers.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_interactive_markers/cmake/turtlebot_interactive_markersConfig.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/turtlebot_interactive_markers/cmake/turtlebot_interactive_markersConfig-version.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_interactive_markers/lib/turtlebot_interactive_markers/turtlebot_marker_server, /home/robot/catkin_ws/devel/lib/turtlebot_interactive_markers/turtlebot_marker_server)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_interactive_markers/lib/pkgconfig/turtlebot_interactive_markers.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_interactive_markers.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_interactive_markers/share/turtlebot_interactive_markers/cmake/turtlebot_interactive_markersConfig.cmake, /home/robot/catkin_ws/devel/share/turtlebot_interactive_markers/cmake/turtlebot_interactive_markersConfig.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/turtlebot_interactive_markers/share/turtlebot_interactive_markers/cmake/turtlebot_interactive_markersConfig-version.cmake, /home/robot/catkin_ws/devel/share/turtlebot_interactive_markers/cmake/turtlebot_interactive_markersConfig-version.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/turtlebot_interactive_markers/turtlebot_marker_server
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/turtlebot_interactive_markers.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_interactive_markers/cmake/turtlebot_interactive_markersConfig.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/turtlebot_interactive_markers/cmake/turtlebot_interactive_markersConfig-version.cmake
+Already unlinked: {}

@@ -1,0 +1,16 @@
+[35m[1mScanning dependencies of target voice_control[0m
+[35m[1mScanning dependencies of target tts_subscribe[0m
+[35m[1mScanning dependencies of target iat_publish[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/voice_control.dir/src/voice_control.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/tts_subscribe.dir/src/tts_subscribe.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/iat_publish.dir/src/iat_publish.cpp.o[0m
+[ 50%] [32mBuilding C object CMakeFiles/iat_publish.dir/src/speech_recognizer.c.o[0m
+[ 62%] [32mBuilding C object CMakeFiles/iat_publish.dir/src/linuxrec.c.o[0m
+[01m[Kcc1:[m[K [01;35m[Kwarning: [m[Kcommand line option ‘[01m[K-std=c++14[m[K’ is valid for C++/ObjC++ but not for C
+[01m[Kcc1:[m[K [01;35m[Kwarning: [m[Kcommand line option ‘[01m[K-std=c++14[m[K’ is valid for C++/ObjC++ but not for C
+[ 75%] [32m[1mLinking CXX executable /home/robot/catkin_ws/devel/.private/robot_voice/lib/robot_voice/iat_publish[0m
+[ 87%] [32m[1mLinking CXX executable /home/robot/catkin_ws/devel/.private/robot_voice/lib/robot_voice/tts_subscribe[0m
+[ 87%] Built target iat_publish
+[ 87%] Built target tts_subscribe
+[100%] [32m[1mLinking CXX executable /home/robot/catkin_ws/devel/.private/robot_voice/lib/robot_voice/voice_control[0m
+[100%] Built target voice_control

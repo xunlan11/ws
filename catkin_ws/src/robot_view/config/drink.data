@@ -1,0 +1,5 @@
+classes=1
+train=/home/robot/catkin_ws/src/robot_view/data/train.txt
+valid=/home/robot/catkin_ws/src/robot_view/data/val.txt
+names=/home/robot/catkin_ws/src/robot_view/config/drink.names
+backup=/home/robot/catkin_ws/src/robot_view/data/backup/

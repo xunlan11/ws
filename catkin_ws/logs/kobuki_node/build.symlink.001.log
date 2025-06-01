@@ -1,0 +1,5 @@
+Symlinking /home/robot/catkin_ws/devel/lib/libkobuki_ros.so
+Symlinking /home/robot/catkin_ws/devel/lib/libkobuki_nodelet.so
+Symlinking /home/robot/catkin_ws/devel/lib/pkgconfig/kobuki_node.pc
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_node/cmake/kobuki_nodeConfig.cmake
+Symlinking /home/robot/catkin_ws/devel/share/kobuki_node/cmake/kobuki_nodeConfig-version.cmake

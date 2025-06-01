@@ -1,0 +1,4 @@
+turtlebot/turtlebot_description
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_description/lib/pkgconfig/turtlebot_description.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_description.pc
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_description/share/turtlebot_description/cmake/turtlebot_descriptionConfig.cmake /home/robot/ws/catkin_ws/devel/share/turtlebot_description/cmake/turtlebot_descriptionConfig.cmake
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_description/share/turtlebot_description/cmake/turtlebot_descriptionConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/turtlebot_description/cmake/turtlebot_descriptionConfig-version.cmake

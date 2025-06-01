@@ -1,0 +1,42 @@
+<launch>
+  <!-- Gazebo arguments -->
+  <arg name="paused" default="false"/>
+  <arg name="use_sim_time" default="true"/>
+  <arg name="gui" default="true"/>
+  <arg name="headless" default="false"/>
+  <arg name="debug" default="false"/>
+  <arg name="world_name" default="worlds/empty.world"/>
+
+  <!-- Startup Gazebo server and client -->
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="world_name" value="$(arg world_name)"/>
+    <arg name="debug" value="$(arg debug)" />
+    <arg name="gui" value="$(arg gui)" />
+    <arg name="paused" value="$(arg paused)"/>
+    <arg name="use_sim_time" value="$(arg use_sim_time)"/>
+    <arg name="headless" value="$(arg headless)"/>
+  </include>
+
+  <!-- Load the URDF into the ROS Parameter Server -->
+  <param name="robot_description" command="$(find xacro)/xacro '''$(find differentiable-robot-model)/diff_robot_data/kuka_iiwa/urdf/iiwa7.urdf'''" />
+
+  <!-- Run a python script to send a service call to gazebo_ros to spawn a URDF robot -->
+  <node name="urdf_spawner" pkg="gazebo_ros" type="spawn_model" respawn="false" output="screen"
+        args="-urdf -model iiwa7 -param robot_description -x 0 -y 0 -z 0.1"/>
+
+  <!-- Load joint controller configurations from YAML file to parameter server -->
+  <rosparam file="$(find iiwa7_moveit_config)/config/controllers.yaml" command="load" ns="/iiwa" />
+
+  <!-- Load the controllers (load + start) -->
+  <node name="controller_spawner" pkg="controller_manager" type="spawner" respawn="false"
+    output="screen" ns="/iiwa" args="iiwa_arm_controller joint_state_controller"/>
+    
+  <!-- Robot State Publisher -->
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" respawn="true" output="screen">
+      <param name="publish_frequency" type="double" value="50.0" />
+  </node>
+
+  <!-- Relay /iiwa/joint_states to global /joint_states so MoveIt can consume -->
+  <node name="joint_states_relay" pkg="topic_tools" type="relay" args="/iiwa/joint_states /joint_states" output="screen" />
+
+</launch> 

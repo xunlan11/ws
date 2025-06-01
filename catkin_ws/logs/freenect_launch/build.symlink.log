@@ -1,0 +1,12 @@
+Symlinking /home/robot/ws/catkin_ws/devel/lib/pkgconfig/freenect_launch.pc
+Symlinking /home/robot/ws/catkin_ws/devel/share/freenect_launch/cmake/freenect_launchConfig-version.cmake
+Symlinking /home/robot/ws/catkin_ws/devel/share/freenect_launch/cmake/freenect_launchConfig.cmake
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_launch/lib/pkgconfig/freenect_launch.pc, /home/robot/catkin_ws/devel/lib/pkgconfig/freenect_launch.pc)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_launch/share/freenect_launch/cmake/freenect_launchConfig-version.cmake, /home/robot/catkin_ws/devel/share/freenect_launch/cmake/freenect_launchConfig-version.cmake)
+Cleaning: (/home/robot/catkin_ws/devel/.private/freenect_launch/share/freenect_launch/cmake/freenect_launchConfig.cmake, /home/robot/catkin_ws/devel/share/freenect_launch/cmake/freenect_launchConfig.cmake)
+Unlinking: /home/robot/catkin_ws/devel/lib/pkgconfig/freenect_launch.pc
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/freenect_launch/cmake/freenect_launchConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/catkin_ws/devel/share/freenect_launch/cmake/freenect_launchConfig.cmake
+Already unlinked: {}

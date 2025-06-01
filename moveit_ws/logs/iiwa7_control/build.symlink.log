@@ -1,0 +1,12 @@
+Symlinking /home/robot/ws/moveit_ws/devel/lib/pkgconfig/iiwa7_control.pc
+Symlinking /home/robot/ws/moveit_ws/devel/share/iiwa7_control/cmake/iiwa7_controlConfig-version.cmake
+Symlinking /home/robot/ws/moveit_ws/devel/share/iiwa7_control/cmake/iiwa7_controlConfig.cmake
+Cleaning: (/home/robot/moveit_ws/devel/.private/iiwa7_control/lib/pkgconfig/iiwa7_control.pc, /home/robot/moveit_ws/devel/lib/pkgconfig/iiwa7_control.pc)
+Cleaning: (/home/robot/moveit_ws/devel/.private/iiwa7_control/share/iiwa7_control/cmake/iiwa7_controlConfig-version.cmake, /home/robot/moveit_ws/devel/share/iiwa7_control/cmake/iiwa7_controlConfig-version.cmake)
+Cleaning: (/home/robot/moveit_ws/devel/.private/iiwa7_control/share/iiwa7_control/cmake/iiwa7_controlConfig.cmake, /home/robot/moveit_ws/devel/share/iiwa7_control/cmake/iiwa7_controlConfig.cmake)
+Unlinking: /home/robot/moveit_ws/devel/lib/pkgconfig/iiwa7_control.pc
+Already unlinked: {}
+Unlinking: /home/robot/moveit_ws/devel/share/iiwa7_control/cmake/iiwa7_controlConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/robot/moveit_ws/devel/share/iiwa7_control/cmake/iiwa7_controlConfig.cmake
+Already unlinked: {}

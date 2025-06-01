@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: differentiable-robot-model
+    relative_path: diff_robot_data/kuka_iiwa/urdf/iiwa7.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/iiwa7.srdf
+  CONFIG:
+    author_name: xunlan
+    author_email: xunlan20040211@gmail.com
+    generated_timestamp: 1747575183

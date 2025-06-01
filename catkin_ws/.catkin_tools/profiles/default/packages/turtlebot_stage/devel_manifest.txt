@@ -1,0 +1,5 @@
+turtlebot_simulator/turtlebot_stage
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_stage/lib/pkgconfig/turtlebot_stage.pc /home/robot/ws/catkin_ws/devel/lib/pkgconfig/turtlebot_stage.pc
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_stage/etc/catkin/profile.d/25.turtlebot-stage.sh /home/robot/ws/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-stage.sh
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_stage/share/turtlebot_stage/cmake/turtlebot_stageConfig-version.cmake /home/robot/ws/catkin_ws/devel/share/turtlebot_stage/cmake/turtlebot_stageConfig-version.cmake
+/home/robot/ws/catkin_ws/devel/.private/turtlebot_stage/share/turtlebot_stage/cmake/turtlebot_stageConfig.cmake /home/robot/ws/catkin_ws/devel/share/turtlebot_stage/cmake/turtlebot_stageConfig.cmake

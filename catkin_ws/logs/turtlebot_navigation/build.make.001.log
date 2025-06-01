@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target laser_footprint_filter[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/laser_footprint_filter.dir/src/laser_footprint_filter.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/robot/catkin_ws/devel/.private/turtlebot_navigation/lib/turtlebot_navigation/laser_footprint_filter[0m
+[100%] Built target laser_footprint_filter
